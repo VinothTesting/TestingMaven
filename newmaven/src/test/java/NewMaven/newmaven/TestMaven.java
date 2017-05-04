@@ -6,6 +6,6 @@ public class TestMaven {
 
 	@Test
 	  public void verify() {
-		System.out.println("Trying differently");
+		System.out.println("Trying differently in new maven");
 	}
 }
